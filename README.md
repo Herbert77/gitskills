@@ -14,3 +14,5 @@ My name is Herbert.
 =======
 My name is Herbert.
 >>>>>>> feature1
+
+add merge.
