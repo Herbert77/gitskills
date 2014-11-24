@@ -12,7 +12,7 @@ Herbert.
 <<<<<<< HEAD
 My name is Herbert.
 =======
-My name is Herbert.
+My name is Herbert Hu.
 >>>>>>> feature1
 
 add merge.
