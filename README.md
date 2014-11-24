@@ -18,4 +18,8 @@ My name is Herbert.
 add merge.
 second change.
 
-WoWoWo.
+<<<<<<< HEAD
+This is mygit.
+=======
+This is mygit.
+>>>>>>> c5f161207d26731fde12a17ba87e09bd58553be8
