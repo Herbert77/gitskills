@@ -9,4 +9,8 @@ Creating a new branch is quick and simple.
 
 Herbert.
 
-My last name is Hu.
+<<<<<<< HEAD
+My name is Herbert.
+=======
+My name is Herbert.
+>>>>>>> feature1
